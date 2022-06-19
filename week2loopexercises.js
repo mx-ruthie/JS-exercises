@@ -65,6 +65,7 @@ do {
 // loop in all 3 ways -- as a 'while', 'do while', and 'for' loop.
 
 //this exercise does not say inclusive so I am not including 7 and 27, please let me know if I misinterpreted that. 
+//actually, I changed my mind and decided to do inclusive based on a convo with Eileen about the language of the question.)
 
 for(let o = 7; o <= 27; o++ ){
   console.log(o);
